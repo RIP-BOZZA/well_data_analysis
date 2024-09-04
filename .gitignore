@@ -1,0 +1,5 @@
+*.db
+venv/
+*.xls
+*.xlsx
+*.DS_Store
